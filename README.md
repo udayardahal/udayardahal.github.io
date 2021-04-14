@@ -5,23 +5,19 @@
 ### Boston University [Boston, MA][](#boston-university-boston-ma)
 
 > Postdoctoral Researcher in Computational Physics/Chemistry Fall 2018 -
-> 
-> ### University of Connecticut [Storrs, CT][](#university-of-connecticut-storrs-ct)
-> 
+
+### University of Connecticut, Storrs, CT 
 > Ph.D. in Computational Physics  
 > Fall 2013 - Summer 2018  
-> Thesis:
 > 
-> ### University of Connecticut [Storrs, CT][](#university-of-connecticut-storrs-ct-1)
-> 
+### University of Connecticut, Storrs, CT 
 > M.S. in Physics Fall 2011 - Fall 2013
 
-### Central Department of Physics, Tribhuvan University [Kirtipur, Nepal][](#central-department-of-physics-tribhuvan-university-kirtipur-nepal)
+### Central Department of Physics, Tribhuvan University,Kirtipur, Nepal
+> Master of Science in Physics, 2010 
+> >*Thesis*: Diffusion of heavy water in normal water at different temperatures using molecular dynamics simulations
 
-> Master of Science in Physics, 2010 Thesis: Diffusion of heavy water in normal water at different temperatures using molecular dynamics simulations
-
-## Publications[](#publications)
-
+## Publications
 1.  [Liang D, Dahal U, Wu M, Murphy CJ, Cui Q. Ligand Length and Surface Curvature Modulate Nanoparticle Surface Heterogeneity and Electrostatics. J Phys Chem C. 2020;124(44):24513-24525\.](https://doi.org/10.1021/acs.jpcc.0c08387)
 2.  [Dahal U, Dormidontova EE. Chain Conformation and Hydration of Polyethylene Oxide Grafted to Gold Nanoparticles: Curvature and Chain Length Effect. Macromolecules. 2020;53(19):8160-8170\.](https://doi.org/10.1021/acs.macromol.0c01499)
 3.  [Liang D, Dahal U, Zhang Y (Kelly), et al. Interfacial water and ion distribution determine ζ potential and binding affinity of nanoparticles to biomolecules. Nanoscale. 2020;12(35):18106-18123\.](https://doi.org/10.1039/D0NR03792C)
@@ -33,12 +29,12 @@
 9.  [Dahal U, Adhikari NP. Molecular dynamics study of diffusion of heavy water in normal water at different temperatures. J Mol Liq. 2012;167:34-39\.](https://doi.org/10.1016/j.molliq.2011.12.008)
 10.  Yongqian Zhang, Udaya Dahal, Z. Vivian Feng, Zeev Rosenzweig, Qiang Cui, Robert J. Hamers ,“ Influence of Surface Ligand Molecular Structure on Phospholipid Membrane Disruption by Cationic Nanoparticles”, (Submitted to JACS)
 
-    > ** Manuscript in preparation:**
+    > **Manuscript in preparation**
 
 11.  Gene Chong, Udaya Dahal, Qiang Cui, Rigoberto Hernandez, “Structural and Dynamical Consistency in Vesicles across All-Atom, MARTINI, and Dissipative Particle Dynamics”, (ms in preparation)
 12.  Udaya Dahal,Qiang Cui, “Conformation of polyelectrolyte wrapped gold nanoparticles and their interaction with phospholipid membrane”,(ms in preparation)
 
-## Research[](#research)
+## Research
 
 > **Boston University**
 > 
@@ -50,7 +46,7 @@
 > > *   Study of polyelectrolyte wrapped nanoparticles and how charge and hydrophobicity impacts the bio-membrane disruption behavior *
 > > *   Impact of ligand length and curavture on surface heterogenity and electrostatics of gold-nanoparticles *
 
-> ** University of Connecticut **
+> **University of Connecticut**
 > 
 > > *   Understanding role of hydrogen bonding in spontaneous insertion and helix formation of polyethylene oxide into carbon nanotubes *
 > > *   Solvation dynamics of two protic solvents and how it affects the conformation and hydrogen bonding dynamics of polyethylene oxide chain *
@@ -59,11 +55,11 @@
 > > *   Study of core-corona polymer micelles that varies on the core hydrophobicity and how that impacts the core hydration *
 > > *   Study of the effect of tetrahydrofuran solvent when mixed with water and its effect on micelle dissolution *
 > > 
-> > **Central Department of Physics, Nepal**
+> **Central Department of Physics, Nepal**
 > > 
 > > *   Study the diffusive behavior of heavy water and normal water at different temperatures and how different are their activation energies *
 
-## Teaching[](#teaching)
+## Teaching
 
 > *   General Physics: Summer 2013; Summer 2014; Spring and Summer 2015; Fall, spring and summer 2016 *
 > *   General Physics with Calculus: Spring and Fall 2013; Spring and Fall 2014; Fall and spring 2015 *
@@ -72,7 +68,7 @@
 >     *   Elements of Physics: Summer 2018 *
 >     *   Undergraduate Courses in Nepal: (Mechanics, Heat & Thermodynamics, Optics, Electricity and Magnetism, Quantum Mechanics) 2010-2011 *
 
-## Technical Experience[](#technical-experience)
+## Technical Experience
 
 > **Programming Languages**
 > 
@@ -86,18 +82,19 @@
 > 
 > > GROMACS, NAMD, VMD, CHARMM, LAMMPS, Gaussian, Schrodinger,
 > 
-> > **Linux Cluster** Hands on experience in Linux GPU cluster Management, Summer 2017
+>  **Linux Cluster**
+> > Hands on experience in Linux GPU cluster Management, Summer 2017
 > 
 > **Art and Design**
 > 
 > > Adobe Photoshop, GIMP
 
-## Relevent Courseworks and Workshops[](#relevent-courseworks-and-workshops)
+## Relevent Courseworks and Workshops
 
-> *   Big data training XSEDE :
+> *   Big data and Machine learning Workshop by XSEDE
 > *   Introduction to Machine Learning in Course-era
 
-## Honors and Awards[](#honors-and-awards)
+## Honors and Awards
 
 > *   Research grant from Office of External Activities, ICTP, Trieste, Italy under Net-56 project for Master’s Thesis research at Tribhuvan University, Nepal,2010
 > *   Predoctoral Fellowship, Department of Physics, University of Connecticut,2011
@@ -108,10 +105,9 @@
 > *   Doctoral Dissertation Fellowship, University of Connecticut,2017
 > *   Travel Award, PS CAM conference, Washington DC,2017
 
-## Professional Activities[](#professional-activities)
+## Professional Activities
 
-> Peer reviewer for various ACS publications. Organizer of “The Quanta-First Exhibition of Physics in Nepal” organized at Central Department of Physics, Tribhuvan University, Nepal 2009. Chief Editor of “Symmetry”, an annual student magazine of Central Department of Physics, Kirtipur, Nepal
+> Peer reviewer for various ACS publications.
+> Organizer of “The Quanta-First Exhibition of Physics in Nepal” organized at Central Department of Physics, Tribhuvan University, Nepal 2009.
+> Chief Editor of “Symmetry”, an annual student magazine of Central Department of Physics, Kirtipur, Nepal
 
-</div>
-
-<script>anchors.add();</script>
