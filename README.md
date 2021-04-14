@@ -85,9 +85,6 @@
 >  **Linux Cluster**
 > > Hands on experience in Linux GPU cluster Management, Summer 2017
 > 
-> **Art and Design**
-> 
-> > Adobe Photoshop, GIMP
 
 ## Relevent Courseworks and Workshops
 
