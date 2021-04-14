@@ -38,23 +38,23 @@
 
 > **Boston University**
 > 
-> > *   Calculating the free energy of binding of small peptide onto functionalized gold nanoparticles *
-> > *   Study of charge fluctuation on charged polyelectrolyte using lambda-dynamics constant pH simulations *
-> > *   Study of coarse-grained models for cationic nonaparticle and its interaction with phospholipid bilayer *
-> > *   Study of functionalized gold nanparticles and their interaction with lipid vesicle *
-> > *   Comparative study of structural and dynamical behavior of lipid vesicles using all-atom, martini coarse-grained and dissipative particle dynamics models *
-> > *   Study of polyelectrolyte wrapped nanoparticles and how charge and hydrophobicity impacts the bio-membrane disruption behavior *
-> > *   Impact of ligand length and curavture on surface heterogenity and electrostatics of gold-nanoparticles *
+>  *   Calculating the free energy of binding of small peptide onto functionalized gold nanoparticles *
+>  *   Study of charge fluctuation on charged polyelectrolyte using lambda-dynamics constant pH simulations *
+>  *   Study of coarse-grained models for cationic nonaparticle and its interaction with phospholipid bilayer *
+>  *   Study of functionalized gold nanparticles and their interaction with lipid vesicle *
+>  *   Comparative study of structural and dynamical behavior of lipid vesicles using all-atom, martini coarse-grained and dissipative particle dynamics models *
+>  *   Study of polyelectrolyte wrapped nanoparticles and how charge and hydrophobicity impacts the bio-membrane disruption behavior *
+>  *   Impact of ligand length and curavture on surface heterogenity and electrostatics of gold-nanoparticles *
 
 > **University of Connecticut**
 > 
-> > *   Understanding role of hydrogen bonding in spontaneous insertion and helix formation of polyethylene oxide into carbon nanotubes *
-> > *   Solvation dynamics of two protic solvents and how it affects the conformation and hydrogen bonding dynamics of polyethylene oxide chain *
-> > *   Study of polymer brush of varying density on a planar gold surface and how ligand density affects hydration and polymer chain mobility *
-> > *   Study of hydration and mobility of polyethylene chains grafted gold nanoparticles and how it depends on ligand length, density and curvature *
-> > *   Study of core-corona polymer micelles that varies on the core hydrophobicity and how that impacts the core hydration *
-> > *   Study of the effect of tetrahydrofuran solvent when mixed with water and its effect on micelle dissolution *
-> > 
+>  *   Understanding role of hydrogen bonding in spontaneous insertion and helix formation of polyethylene oxide into carbon nanotubes *
+>  *   Solvation dynamics of two protic solvents and how it affects the conformation and hydrogen bonding dynamics of polyethylene oxide chain *
+>  *   Study of polymer brush of varying density on a planar gold surface and how ligand density affects hydration and polymer chain mobility *
+>  *   Study of hydration and mobility of polyethylene chains grafted gold nanoparticles and how it depends on ligand length, density and curvature *
+>  *   Study of core-corona polymer micelles that varies on the core hydrophobicity and how that impacts the core hydration *
+>  *   Study of the effect of tetrahydrofuran solvent when mixed with water and its effect on micelle dissolution *
+>  
 > **Central Department of Physics, Nepal**
 > > 
 > > *   Study the diffusive behavior of heavy water and normal water at different temperatures and how different are their activation energies *
@@ -63,10 +63,10 @@
 
 > *   General Physics: Summer 2013; Summer 2014; Spring and Summer 2015; Fall, spring and summer 2016 *
 > *   General Physics with Calculus: Spring and Fall 2013; Spring and Fall 2014; Fall and spring 2015 *
->     *   Physics for Engineers: Fall 2013 *
->     *   Electricity, Magnetism and Mechanics -Writing course for Physics Majors: Fall 2014 *
->     *   Elements of Physics: Summer 2018 *
->     *   Undergraduate Courses in Nepal: (Mechanics, Heat & Thermodynamics, Optics, Electricity and Magnetism, Quantum Mechanics) 2010-2011 *
+> *   Physics for Engineers: Fall 2013 *
+> *   Electricity, Magnetism and Mechanics -Writing course for Physics Majors: Fall 2014 *
+> *   Elements of Physics: Summer 2018 *
+> *   Undergraduate Courses in Nepal: (Mechanics, Heat & Thermodynamics, Optics, Electricity and Magnetism, Quantum Mechanics) 2010-2011 *
 
 ## Technical Experience
 
