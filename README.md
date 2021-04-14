@@ -1,28 +1,4 @@
-# [udayadahal.github.io](https://udayadahal.github.io/)
-
 # Udaya Dahal
-
-<table>
-
-<tbody>
-
-<tr>
-
-<td>[dahal.udaya@gmail.com](mailto:dahal.udaya@gmail.com)</td>
-
-<td>[linkedin](https://www.linkedin.com/in/udahal/)</td>
-
-<td>[website](https://udayadahal.github.io/)</td>
-
-<td>[github](http://github.com/udayadahal)</td>
-
-<td>[pdf](https://udayadahal.github.io/docs/udaya_cv.pdf)</td>
-
-</tr>
-
-</tbody>
-
-</table>
 
 ## Education[](#education)
 
